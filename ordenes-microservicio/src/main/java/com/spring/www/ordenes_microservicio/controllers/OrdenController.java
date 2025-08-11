@@ -96,6 +96,26 @@ public class OrdenController {
         }
     }
 
+    @GetMapping("/orden-usuarios/{id}")
+    public ResponseEntity<?> ordenUsuarios (@PathVariable Long id){
+        Optional<Orden> ordenUsuario = service.buscarOrdenPorId(id);
+
+        if (ordenUsuario.isEmpty()){
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("error 404 not found: orden not found");
+        }
+        Orden orden = ordenUsuario.get();
+
+        if (orden.getId() == null || orden.getUsuarioId() == null){
+            return ResponseEntity.status(HttpStatus.BAD_GATEWAY).body("error 404 not found");
+        }
+        Map<String, Object> response = new HashMap<>();
+        response.put("orden id: ",orden.getId());
+        response.put("usuario id: ", orden.getUsuarioId());
+
+        return ResponseEntity.ok(response);
+
+    }
+
     private static ResponseEntity<Map<String, Object>> getMapResponseEntityErrors(BindingResult result) {
         Map<String, Object> errors = new HashMap<>();
         result.getFieldErrors().forEach(e -> {
