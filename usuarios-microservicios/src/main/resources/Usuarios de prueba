@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Juan",
+    "apellidoPaterno": "Pérez",
+    "apellidoMaterno": "López",
+    "correo": "juan.perez@example.com",
+    "numeroTelefono": "5512345678",
+    "codigoPostal": "01000",
+    "alcaldia": "Álvaro Obregón",
+    "nombreUsuario": "juanperez"
+  },
+  {
+    "nombre": "María",
+    "apellidoPaterno": "García",
+    "apellidoMaterno": "Hernández",
+    "correo": "maria.garcia@example.com",
+    "numeroTelefono": "5523456789",
+    "codigoPostal": "02020",
+    "alcaldia": "Coyoacán",
+    "nombreUsuario": "mariagarcia"
+  },
+  {
+    "nombre": "Luis",
+    "apellidoPaterno": "Martínez",
+    "apellidoMaterno": "Ramírez",
+    "correo": "luis.martinez@example.com",
+    "numeroTelefono": "5534567890",
+    "codigoPostal": "03030",
+    "alcaldia": "Benito Juárez",
+    "nombreUsuario": "luismartinez"
+  },
+  {
+    "nombre": "Ana",
+    "apellidoPaterno": "Hernández",
+    "apellidoMaterno": "Morales",
+    "correo": "ana.hernandez@example.com",
+    "numeroTelefono": "5545678901",
+    "codigoPostal": "04040",
+    "alcaldia": "Miguel Hidalgo",
+    "nombreUsuario": "anahernandez"
+  },
+  {
+    "nombre": "Carlos",
+    "apellidoPaterno": "Gómez",
+    "apellidoMaterno": "Castro",
+    "correo": "carlos.gomez@example.com",
+    "numeroTelefono": "5556789012",
+    "codigoPostal": "05050",
+    "alcaldia": "Tlalpan",
+    "nombreUsuario": "carlosgomez"
+  },
+  {
+    "nombre": "Laura",
+    "apellidoPaterno": "Díaz",
+    "apellidoMaterno": "Ortiz",
+    "correo": "laura.diaz@example.com",
+    "numeroTelefono": "5567890123",
+    "codigoPostal": "06060",
+    "alcaldia": "Iztapalapa",
+    "nombreUsuario": "lauradiaz"
+  },
+  {
+    "nombre": "Fernando",
+    "apellidoPaterno": "Torres",
+    "apellidoMaterno": "Vargas",
+    "correo": "fernando.torres@example.com",
+    "numeroTelefono": "5578901234",
+    "codigoPostal": "07070",
+    "alcaldia": "Azcapotzalco",
+    "nombreUsuario": "fernandotorres"
+  },
+  {
+    "nombre": "Patricia",
+    "apellidoPaterno": "Flores",
+    "apellidoMaterno": "Núñez",
+    "correo": "patricia.flores@example.com",
+    "numeroTelefono": "5589012345",
+    "codigoPostal": "08080",
+    "alcaldia": "Venustiano Carranza",
+    "nombreUsuario": "patriciaflores"
+  },
+  {
+    "nombre": "Jorge",
+    "apellidoPaterno": "Ruiz",
+    "apellidoMaterno": "Jiménez",
+    "correo": "jorge.ruiz@example.com",
+    "numeroTelefono": "5590123456",
+    "codigoPostal": "09090",
+    "alcaldia": "Gustavo A. Madero",
+    "nombreUsuario": "jorgeruiz"
+  },
+  {
+    "nombre": "Elena",
+    "apellidoPaterno": "Santos",
+    "apellidoMaterno": "Cruz",
+    "correo": "elena.santos@example.com",
+    "numeroTelefono": "5501234567",
+    "codigoPostal": "10010",
+    "alcaldia": "Cuajimalpa",
+    "nombreUsuario": "elenasantos"
+  }
+]

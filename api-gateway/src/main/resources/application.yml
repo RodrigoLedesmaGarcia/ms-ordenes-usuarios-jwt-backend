@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    gateway:
+      routes:
+        - id: usuarios-microservicios
+          uri: http://localhost:8050/api/usuarios/**
+          predicates:
+            - Path=/api/usuarios/**
+        - id: ordenes-microservicios
+          uri: http://localhost:9000/api/ordenes/**
+          predicates:
+            - Path=/api/ordenes/**
+
+server:
+  port: 9999

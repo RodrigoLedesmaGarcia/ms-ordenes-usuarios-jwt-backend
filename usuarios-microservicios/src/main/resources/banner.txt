@@ -1,0 +1,97 @@
+                                 +++xxxxxxx
+                                ++;++++++++++xxxx         $$$
+                               +++;;;++++++++++xxxxxx $$$$$$$$$$$$$
+                              +++;;;;++++++xxxxxxxxXX$$$$$$&&&&&$$$$$&
+                              +;;;;;;++xxxxxxxxXX$$$$$$$&&&&&$$$$$$$$$$
+                              +;;;;;;++xxXXXXXX$$$$X$$$&&&$$$XXXX$&&&$$$
+                              +;;;;;;++xxX$X$$$&$XXXX$&$Xx++++++xxX$&&$$$
+                             +;;;;;;;++xxX$$$&&$$XXXx&$X+;;;;+++++xX&&&$XX
+                             +;;;;;;;++xxX$&$&$$XxxxX$Xx;;;;;+++++xX$&&$XX
+                             +;;;;;;+++xxX$  $$Xxxxx$$X+;;;;;;;++++xX&&&$XX
+                            ++;;;;;;+++xxxX  $Xxxx+X$x++xXXx+++X$$XXX$&&$XXX
+                            +;;;;;;;++++xxX$$$XXx+x$$$$X$$Xx+;xXX$$$X$&&&$XX
+                            +;;;;;;;+++++xX$&XXxxX$$Xxxxxxx+x+XXxXXXXX$&&$XXX
+                            +;;;;;;++++++xX$&$XxXX&Xx++;+;;x;;xX+++++x$&&$$XX
+                            +;;;;;;++++++xX$&XX$$&&X+;;;++++;;+x+++++x$&&$$XX
+                            +;;;;;++++++xxX$$$X$$&&X++;+++;++xXXxx++xX&&$$$XX
+                            ++;;;;+++++xxxX$$&$$X$&Xx++x++;;+++xxxxxx$&&$XXXX
+                             +;;;++++xxxxX$&&$$$XxX$x+++++xxxXXXXx+xX&&$XXX$X
+                             ++;++++xxxxxXXX$$$$$XxX$x++++++xxxxxxxX&&$XX$$$XX
+                             ++++++xxxxxxXxxX$&&$XXX$$Xx+;;;;+++xX$&&&$x$$$$$XX
+                             +++++xxx+++xx+++x$&$$XXX$$XXxxxxxxXX$&&&$XX$$$$XXXx
+                             +++++x+++++++;;+xx$&$$$XX$XxXXXXXXXX$&&&$$X$$XX$XXXx
+                             ++++++;;++++;;;++xxX&&$$XXXxxxxxxxXX$&&&X$$X$XXX$XXXX
+                              ++++;;;;++;;;;;++xxX$XXXxx++x++++X$$$&&&X$$xxXXX$XX$$
+                              +++;;;;;;;;;;;;+++xxXxxxxxxxxxx++xxxxxxxXxX$XxxxXXXXXXX
+                              x++;;;;;;;;;;;+++++xxxxxxxxxxx++xxxxxxxxxxXXXXXXXxXXXXxxx
+                              X++;;;;;;;;;++++++xx++++xxxxXxxxxxxxxxxxxxxxxxxXXX$$$XXxxxx
+                               X++;;;;;;;+++;;++++;;;++++xxxXx++++xxx++++++++xxxxxX$$XXxxx
+                                ++;;;;;;+;;;;+++++++;;;;+++xxXXx+++++++++++++++++xxxx$XXxx
+                                ++;;;;;;;;;+++++++++++;;;++++xxXxx++++;;;;;;+++++xx+xxxXXxX
+                                ++;;;;;;;+++++++++++++++;;++++xxX$x++;;;;;;;;;+++xx+xxxxxxX
+                                ++;;;;;;++++++++++++++++x+;++++xX$Xx+;;;;;;;;;++x+++xx+xxxxX
+                                x+;;;;;++++++++++x+++++++xx++++xXX$X+;;;;;;;;+++++xxxxxxXXXX
+                                x+;+;;+++++++++xxxx+++xxxxxxx++xxX$Xx+;::;;++x+xxxxxxxxXXXXX
+                                 +++;+++++++++++xxxxxxxxxxxxXx+xXXX$x+;;;;+x+xxxxxxxxxxXXXXX
+                                 ++++++++++x++xxxxxxxxxxxxxXXXXXXxx$$x++xxxxxxxxxxxxXXXXXXXX
+                                  +++++++++xxxxxxxxxxxxXXXXXXXXXXxxX$xxxxxxxxxxxxxXXXXXXXXXX
+                                   +x+++xxxxxxxxxxxXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXXXXXXXX
+                                    +xxxxxxxxxxXXXXXXXXXXXX$$$XXXXXxxxxxXXXXXXXXXXXXXXXXXX
+                                    ++xxxxxxxXXXXXXXX$$$$$$$$XXXxxxxxxxxXXXXXXXXX$$$$$$XX
+                                    +++++xXXXXXXX$$$$$$$$$$XXXxxxxxxxxxxXX$$X$$$$$$$$XXXX
+                                     +++++++xXXX$$$$$$$$XXXXxxxxXx++++xxxXXX$$$$$$$XXXXXX
+                                     x++++++++++xxxxxxx++;;;+++++;;;;+++++xxxXXXXXXXXXXXX
+                                      x+++xx++;;;;;;;;;;;;;++++++;;;;+++++++xxxXXXXXXXXX
+                                       xx+;;;;;;;;;;;;;;;;;+++++++;;;+++++++xxXXXXXXXXXX
+                                        ++++;;;;;;;;;;;;;;++++++++;;;+++++xxxxXXxXXXXXXX
+                                         +++++;;;;+++;;+++++++++++;++++++xxxxXXXXXxxXXXX
+                                          +++++++++++++++++++++++++++++++xxxxXXxxxxxxxXXX
+                                           +++++++++++++++;;;;;+++++++++xxxxxxxxxxxxxxxxx
+                                            x++++++++++++;;;;+++++++++++++xxxxxxx++++xxxxX
+                                             ++++++++++++++++++++++++++++++xxxxxx++++++xxxX
+                                              +++++++++++;;;;;++++++++++++++xxxxxx++++++xXXX
+                                              ++++++++++;;;;;;+++xXXx+++++++xxxxxx++++++xXxxxX
+                                              ++++++++++;;;;;;;+++xx+;;;+++xxxxxx++++++xxxxxxxx
+                                              +++++++++++;;;;;;;++++;;;++++xxxxxx++++++xxxxxxxxx
+                                              +++++++++++++;;;;;;+++++++++xxxxxxx+++++xx+xxxxxxxxX
+                                              ++++;;++++++++++++++++++++xxxxxxxxx++++xX+xxx++xxxxxx
+                                             +++++;;;++++++++++++++xxxxxxxxxxxxxx++xxxxx+++++xxxxxxx
+                                             ++++++;;;+++++++++++xxxxxxxxxxxxxxxxxxxxx+++++++xxxxxxxx
+                                            +++++x+++;;++++++++++xxxxxxxxxxxxxxxxxXXx+x++++++xxxxxxxx
+                                           ++++++++x+++++++++++++xxxxxx+xxxxxxxxxXxxxxx+++++++xxxxxxxx
+                                           ++++++++++xx+++++++++++xxxxxxxxxxxxXXxxxxxx+++++++++xxxxxxxx
+                                           ++++++++++x+xxx++++++xxxxxxxxxxxXxxxxxXxXx+++++++++++xxxxxxx
+                                           +++++++++++++xxxxxxxxxxxxxxxxxxxxxxxXXxX++++++++++++++xxxxxxx
+                                           +xxxx++++++++++xxxxxxxxxxxxxxxxxxxxXXXx+;+++++++++++++xxxxxxx
+                                          +++++++++++++xxxxxxxxxxxxxxxxxxxxxXXXX++;+++++++++++++++xxxxxxX
+                                         +++++++++;;++++++xxxxxxxxxxxxxxxxXXX$x+;;;;+++++;+++++++xxxxxxxx
+                                        +++++++++;;;;++++++xxxxxxXxxxxXXXXXX$++;;;++++++;;;++++++xxxxxxxx
+                                        +++++++;;;;;;+++++++xxxxxxXXXXXXX$$X++;;+++++++;;;++++++xxxxxxxxxx
+                                       ++++++++;;;;;;+++++++++xxxxXX$$$$$$x++++++++++++;;;+++++xxxxxxxxxxX
+                                       +++++++;;;;;;;;+++++++++xxxxX$$$$&x++++++++++++;;;++++++xxxxxxxxxXX
+                                      +++++++;;;;;;;;;+++++++++xxxxXX$&&Xxx++++++x++++;++++++++xxxxxxXXXXX
+                                      +++++++;;;;;;;;++++++++xxxxxxXX$&&Xxxxxxxxx+++++++++++++xxxxxxxXXXX
+                                     +++++++;;;;;;;;;+++++xxxxxxxxxXX$&&Xxxxxxxx+++++++++++++xxxxxxxxXXXX
+                                     +++++++;;;;;;;;+++++xxxxxxxxxXXX$&&$xxxxxx+++++++++++++xxxxxxxxXXXXX
+                                     ++++++;;;;;;;;+++++xxxxxxxxxxXXX$& $Xxxxxxx++++++++++++xxxxxxxxXXXX
+                                    ++++++;;;;;;;;++++xxxxxxxxxxxXXXX$  $Xxxxxxx++++++++++++xxxxxxxxXXXX
+                                    +++++;;;;;;;;++++xxxxxxxxxxxxXXX$$  $XXxxxxx++++++++++++xxxxxxxxXXX
+                                    +++++;;;;;;;+++++xxxxxxxxxxXXXXX$   $$XXXxxxxx+++++++++xxxxxxxxXXX
+                                   ++++++;;;;;+++++++xxxxxxxxXXXXXX$     $XXxxxxxx++++++++xxxxxxxxxXXX
+                                   ++++++;;;+++++++++xxxxxxxXXXXXX$$     $$XXXxxxx+++++++xxxxxxxxXXXX
+                                  +++++++;++++++++++xxxxxxXXXXXXX$$       $XXXxxxx++++++xxxxxxxxxXXXX
+                                  +++++++++++++++++xxxxxXXXXXXXX$          XXXxxxx+++++xxxxxxxxxXXXXX
+                                  ++++++++++++++++xxxxxxXXXXXX$$           $XXxxxx+++++xxxxxxxxXXXXX
+                                 +++++++++++++++++xxxxxxXXXXX$$             XXxxxx++++xxxxxXXXXXXXX$
+                                 ++++++++++++++++xxxxxxXXXXX$$              XXxxxx+++xxxxxxXXXXXXXX
+                                 ++++++++++++++++xxxxxXXXXX$$               XxxxxxxxxxxxxxxxxXXXXX
+                                 +++++++++++++++xxxxxXXXXX$                 XxxxxxxxxxxxxxxxxXXXXX
+                                ++++++++++++++xxxxxxXXXXX$                  XXxxxxxxxxxxXxxxXXXXX
+                                x++++++++++++xxxxxXXXXXX$                   XXxxxxxxxxxxxxxXXXXXX
+                                xx++++++++++xxxxxXXXXXXX                    XXXxxxxxxxxxxxXXXXXXX
+                                xxx+++++++xxxxxXXXXXXXX                     XXXXXxxxxxxxxXXXX$XX
+                               xx+++++++xxxxxxXXXXXXXX$                     XXXXXXxxxxxXXXXXXXXX
+                              xxxx++++xxxxxxXXXXXXXXX                       XXXXXXXXXxXXXXXX$XX$
+                              xxxxxxxxxXXXXXXXXXXXXX$                       XxxXXXXxxXXXX$$$XXX
+                             +xxxxxxxxXXX$XXXXXXXXX$                         XxxXXXXXXXXXXXXXXX
+                             +xx+++xxxXXX$$$$XXXXX                           XxxxXXXXXXXXXXXXXX
